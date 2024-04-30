@@ -1,0 +1,1 @@
+<h3>Modifique el caso Alumno presentado en la Practica 002 de tal manera que obtengamos la lista de los alumnos con sus atributos, ordenados en forma ascendente con relación a su promedio de notas tal como se muestra en la salida mostrada en la parte inferior. Se puede usar herencia o composición. (Sugerencia: usar el interfaz Comparable)</h3>
